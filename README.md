@@ -1,4 +1,4 @@
-This project implement a big data analysis system for movie comments.
+This project implement an application based on Hadoop+Spark for movie comments sentiment analysis.
 
 ##### You can check `code` module for the details of code design, and you can check `report` for this project process.
 
