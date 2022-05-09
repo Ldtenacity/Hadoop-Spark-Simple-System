@@ -2,6 +2,8 @@ This project implement an application based on Hadoop+Spark for movie comments s
 
 ##### You can check `code` module for the details of code design, and you can check `report` for this project process.
 
+Team Project, and my efforts are data analysis, data visualization, And Hadoop environment setup.
+
 ##### There are mainly 4 parts of this project, they are:
 ###### 1. data crawling
 ###### 2. data analysis
