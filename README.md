@@ -8,3 +8,7 @@ This project implement an application based on Hadoop+Spark for movie comments s
 ###### 3. set up the Distributed File Storage System on the virtual environment(HDFS).
 ###### 4. set up the Distributed File Processing System on the computer, run the program on the environment (In this project: Hadoop and Spark)
 ###### 5. data processing
+
+
+- 🌱 I'm currently working on GNN & RL & NLP & CV & ML & Big Data Analysis. 
+- 🌱 I'm quite intereted in System Architecture & Software Engineering & Hardware Development & Metaverse nowadays.
